@@ -60,3 +60,19 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# setup.py
+*.egg-info
+
+# MySQL Workbench temp file
+*.mwb.bak
+
+# upload files
+upload/
